@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bradyivan
 - 👀 I’m interested in fullstack development and Data science
 - 🌱 I’m currently learning fullstack, REST-API with DJango
-- 💞️ I’m looking to collaborate on simple projects for get more experienced
+- 💞️ I’m looking to collaborate on projects for get more experienced
 - 📫 How to reach me bradyjimenez76@gmail.com
 
 <!---
