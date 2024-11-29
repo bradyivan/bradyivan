@@ -2,6 +2,7 @@
 - 👀 I’m interested in fullstack development and Data science
 - 🌱 I’m currently learning fullstack, REST-API with DJango
 - 🌱 Learning microcontrollers programming with C
+- 🌱 Student in [21 School](https://21-school.ru/)
 - 💞️ I’m looking to collaborate on projects for get more experienced
 - 📫 How to reach me bradyjimenez76@gmail.com
 
