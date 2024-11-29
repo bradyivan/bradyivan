@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bradyivan
+- 👋 Hi, I’m [@bradyivan](bradyivan.github.io)
 - 👀 I’m interested in fullstack development and Data science
 - 🌱 I’m currently learning fullstack, REST-API with DJango
 - 🌱 Learning microcontrollers programming with C
